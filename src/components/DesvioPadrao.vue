@@ -27,7 +27,7 @@ export default {
 ,
 methods: {
  calculoDesvioPadrao () {
-       
+       /* eslint-disable */
        var valores = this.valoresUsuario.split(",");
        var total =0;
        var numeros=0;
