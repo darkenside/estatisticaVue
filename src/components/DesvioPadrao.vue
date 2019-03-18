@@ -45,7 +45,7 @@ methods: {
         for (var i=0; i<valores.length ;i++){
          
          calc =calc + ((valores[i] - media) * (valores[i] - media));
-       // window.alert(calc);
+      
 
        }
     
