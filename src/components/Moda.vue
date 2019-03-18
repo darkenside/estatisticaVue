@@ -27,7 +27,7 @@ export default {
 ,
 methods: {
  calculoModa () {
-       
+       /* eslint-disable */
        var numbers = this.valoresUsuario.split(",");
      var modes = [], count = [], i, number, maxIndex = 0;
  
