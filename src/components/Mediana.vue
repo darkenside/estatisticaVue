@@ -27,7 +27,7 @@ export default {
 ,
 methods: {
  calculoMediana () {
-       
+       /* eslint-disable */
        var values = this.valoresUsuario.split(",");
        
         values.sort( function(a,b) {return a - b;} );
