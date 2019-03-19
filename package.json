@@ -1,4 +1,6 @@
 {
+  "postinstall": "npm run build",
+"start": "node server.js"
   "name": "conversor",
   "version": "0.1.0",
   "private": true,
