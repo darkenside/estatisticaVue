@@ -17,7 +17,7 @@
     <Moda moedaA="USD" moedaB="BRL"/>
   </div>
  <br><br><br><br><br><br><br>
-  <h2>Desenvolvido Por Omalotech - 2019</h2>
+  <h2>Desenvolvido Por Omalotech - 2022</h2>
   </div>
 </template>
 
